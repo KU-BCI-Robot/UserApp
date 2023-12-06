@@ -2,7 +2,7 @@
 A user-friendly application for experiencing and simulating a BCI system for robotic arm control, with or without a physical robot / EEG device. 
 Features an intuitive GUI for mode selection (_Real_ / _Virtual_ mode), system calibration using user's own EEG, step-by-step tutorial for using the app, and many more.
 
-|![home_menu](https://github.com/KU-BCI-Robot/BCIprogram/assets/57985020/c3ad9991-38cd-423b-ae0d-5f1368eb4635)|![virtual_mode](https://github.com/KU-BCI-Robot/BCIprogram/assets/57985020/8f50098e-0243-4ccf-a5f0-5041b42f4b10)|
+|![home_screen](https://github.com/KU-BCI-Robot/BCIprogram/assets/57985020/c40e9796-78c3-4692-b6a1-e3eda2256ac9)|![virtual_mode](https://github.com/KU-BCI-Robot/BCIprogram/assets/57985020/d7b09d1a-5338-4a47-9b20-a761f7bf12a3)|
 |:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | Screenshot of the Home Screen                                                                                   | Screenshot of the  Virtual Mode                                                                                 |
 
