@@ -27,4 +27,4 @@ For detailed instructions on how to set up and use the application, please refer
 For any issues or questions, please refer to the user manual or raise an issue in this GitHub repository.
 
 ## License and Usage Terms
-This software and its documentation are subject to specific terms and conditions. Reproduction, distribution, and unauthorized use are prohibited. For detailed terms, please refer to the second page of the user manual or visit the [Neurocomputing Laboratory website](https://neurocomputinglab.wixsite.com/neulab).
+This software and its documentation are subject to specific terms and conditions. Reproduction, distribution, and unauthorized use are prohibited. For detailed terms, please refer to the second page of the user manual or visit the website for the [integrative BCI platform](https://github.com/NIBCI/Non-invasive-BCIplatform).
